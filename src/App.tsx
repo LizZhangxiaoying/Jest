@@ -4,7 +4,7 @@ import "./App.css";
 import Greetings from "./components/Greetings";
 
 function App() {
-  return <Greetings name="World" />;
+  return <Greetings name="Liz" />;
 }
 
 export default App;
